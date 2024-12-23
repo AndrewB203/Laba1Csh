@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RjvWww+aIkI=",
+  "dgSpecHash": "OvS8bL/2yoo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\bolsh\\source\\repos\\Laba1\\Laba1_3\\Laba1_3.Tests\\Laba1_3.Tests.csproj",
+  "projectFilePath": "C:\\Users\\bolsh\\source\\repos\\University\\Laba1\\Laba1_3\\Laba1_3.Tests\\Laba1_3.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bolsh\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\bolsh\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",

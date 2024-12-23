@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bolsh\\source\\repos\\Laba1\\Laba1_1\\MyCSharpProject.csproj",
+      "projectUniqueName": "C:\\Users\\bolsh\\source\\repos\\University\\Laba1\\Laba1_1\\MyCSharpProject.csproj",
       "projectName": "MyCSharpProject",
-      "projectPath": "C:\\Users\\bolsh\\source\\repos\\Laba1\\Laba1_1\\MyCSharpProject.csproj",
+      "projectPath": "C:\\Users\\bolsh\\source\\repos\\University\\Laba1\\Laba1_1\\MyCSharpProject.csproj",
       "packagesPath": "C:\\Users\\bolsh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bolsh\\source\\repos\\Laba1\\Laba1_1\\obj\\",
+      "outputPath": "C:\\Users\\bolsh\\source\\repos\\University\\Laba1\\Laba1_1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bolsh\\AppData\\Roaming\\NuGet\\NuGet.Config",

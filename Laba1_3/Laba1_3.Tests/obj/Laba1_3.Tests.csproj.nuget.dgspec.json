@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bolsh\\source\\repos\\Laba1\\Laba1_3\\Laba1_3.Tests\\Laba1_3.Tests.csproj": {}
+    "C:\\Users\\bolsh\\source\\repos\\University\\Laba1\\Laba1_3\\Laba1_3.Tests\\Laba1_3.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bolsh\\source\\repos\\Laba1\\Laba1_3\\Laba1(3)\\Laba1(3).csproj": {
+    "C:\\Users\\bolsh\\source\\repos\\University\\Laba1\\Laba1_3\\Laba1(3)\\Laba1(3).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bolsh\\source\\repos\\Laba1\\Laba1_3\\Laba1(3)\\Laba1(3).csproj",
+        "projectUniqueName": "C:\\Users\\bolsh\\source\\repos\\University\\Laba1\\Laba1_3\\Laba1(3)\\Laba1(3).csproj",
         "projectName": "Laba1(3)",
-        "projectPath": "C:\\Users\\bolsh\\source\\repos\\Laba1\\Laba1_3\\Laba1(3)\\Laba1(3).csproj",
+        "projectPath": "C:\\Users\\bolsh\\source\\repos\\University\\Laba1\\Laba1_3\\Laba1(3)\\Laba1(3).csproj",
         "packagesPath": "C:\\Users\\bolsh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bolsh\\source\\repos\\Laba1\\Laba1_3\\Laba1(3)\\obj\\",
+        "outputPath": "C:\\Users\\bolsh\\source\\repos\\University\\Laba1\\Laba1_3\\Laba1(3)\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bolsh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -64,14 +64,14 @@
         }
       }
     },
-    "C:\\Users\\bolsh\\source\\repos\\Laba1\\Laba1_3\\Laba1_3.Tests\\Laba1_3.Tests.csproj": {
+    "C:\\Users\\bolsh\\source\\repos\\University\\Laba1\\Laba1_3\\Laba1_3.Tests\\Laba1_3.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bolsh\\source\\repos\\Laba1\\Laba1_3\\Laba1_3.Tests\\Laba1_3.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\bolsh\\source\\repos\\University\\Laba1\\Laba1_3\\Laba1_3.Tests\\Laba1_3.Tests.csproj",
         "projectName": "Laba1_3.Tests",
-        "projectPath": "C:\\Users\\bolsh\\source\\repos\\Laba1\\Laba1_3\\Laba1_3.Tests\\Laba1_3.Tests.csproj",
+        "projectPath": "C:\\Users\\bolsh\\source\\repos\\University\\Laba1\\Laba1_3\\Laba1_3.Tests\\Laba1_3.Tests.csproj",
         "packagesPath": "C:\\Users\\bolsh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bolsh\\source\\repos\\Laba1\\Laba1_3\\Laba1_3.Tests\\obj\\",
+        "outputPath": "C:\\Users\\bolsh\\source\\repos\\University\\Laba1\\Laba1_3\\Laba1_3.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bolsh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -88,8 +88,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\bolsh\\source\\repos\\Laba1\\Laba1_3\\Laba1(3)\\Laba1(3).csproj": {
-                "projectPath": "C:\\Users\\bolsh\\source\\repos\\Laba1\\Laba1_3\\Laba1(3)\\Laba1(3).csproj"
+              "C:\\Users\\bolsh\\source\\repos\\University\\Laba1\\Laba1_3\\Laba1(3)\\Laba1(3).csproj": {
+                "projectPath": "C:\\Users\\bolsh\\source\\repos\\University\\Laba1\\Laba1_3\\Laba1(3)\\Laba1(3).csproj"
               }
             }
           }
